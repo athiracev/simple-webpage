@@ -10,7 +10,7 @@ header{
     text-align: right;
 }
 header a{
-    color: rgba(0,0,0);
+    color: rgb(235, 241, 245);
     text-decoration: none;
     margin-right:  80px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -21,7 +21,7 @@ header a:hover{
     color: rgb(17, 99, 214);
 }
 main{
-    background-image: url(./images/background.jpg);
+    background-image: url(./images/stone.jpg);
     height:100vh;
     width: 100%;
     background-size: cover;
@@ -37,5 +37,6 @@ main{
 main h1{
     margin: 0;
     font-size: 60px;
+    color: rgb(246, 247, 249);
     mix-blend-mode:overlay ;
 }
